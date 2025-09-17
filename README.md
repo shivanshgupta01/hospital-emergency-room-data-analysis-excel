@@ -4,7 +4,16 @@
 ***
 
 ## 📌 Table Of Contents:
-[Project Overview](https://github.com/shivanshgupta01/hospital-emergency-room-data-analysis-excel/blob/main/README.md#project-overview)
+- [Project Overview](https://github.com/shivanshgupta01/hospital-emergency-room-data-analysis-excel/blob/main/README.md#project-overview)
+- [KPI’s Requirement](https://github.com/shivanshgupta01/hospital-emergency-room-data-analysis-excel/blob/main/README.md#kpis-requirement)
+- [Dataset](https://github.com/shivanshgupta01/hospital-emergency-room-data-analysis-excel/blob/main/README.md#dataset)
+- [Tools and Technologies](https://github.com/shivanshgupta01/hospital-emergency-room-data-analysis-excel/blob/main/README.md#tools-and-technologies)
+- [Project Steps](https://github.com/shivanshgupta01/hospital-emergency-room-data-analysis-excel/blob/main/README.md#project-steps)
+- [Key Insights (As Per January 2024)](https://github.com/shivanshgupta01/hospital-emergency-room-data-analysis-excel/blob/main/README.md#key-insights-as-per-january-2024)
+- [Dashboard](https://github.com/shivanshgupta01/hospital-emergency-room-data-analysis-excel/blob/main/README.md#dashboard)
+- [Final Conclusion](https://github.com/shivanshgupta01/hospital-emergency-room-data-analysis-excel/blob/main/README.md#final-conclusion)
+- [Author and Contact](https://github.com/shivanshgupta01/hospital-emergency-room-data-analysis-excel/blob/main/README.md#author-and-contact)
+
 
 ***
 
