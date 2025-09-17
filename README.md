@@ -61,3 +61,40 @@ You can access the Hospital Emergency Room dataset used for this project <a href
 
 - Insights Generation
 
+***
+
+## Key Insights (As Per January 2024):
+
+- Patient Volume Trends:
+  - The ER handled over 500 patients in January, with peak visits on weekends.
+  - Daily trend shows noticeable spikes during flu season, suggesting seasonal demand.
+
+- Average Wait Time:
+  - The average wait time was ~36 minutes, with some days exceeding 45 minutes.
+  - Longer wait times directly correlated with higher patient volume.
+
+- Patient Satisfaction:
+  - Overall satisfaction remained high (4.9/5) despite busy days.
+  - Slight dips in satisfaction matched with peak wait times, indicating the need for quicker service during rush hours.
+
+- Admission vs. Non-Admission:
+  - 52% of patients were admitted, while 48% were discharged after ER treatment.
+  -This balance indicates efficient triage and admission practices.
+
+- Age Distribution:
+  - The 0–9 age group accounted for the highest share of visits.
+  - Elderly patients (60+) had a higher admission rate, highlighting the need for specialized care readiness.
+
+- Timeliness of Service:
+  - 74% of patients were seen within 30 minutes, but 26% experienced delays.
+  - Improving staff allocation during peak hours could reduce delays.
+
+- Gender Analysis:
+  - Patient ratio: 53% Female | 47% Male, showing nearly balanced gender distribution.
+
+- Department Referrals:
+  - Cardiology and Orthopedics received the highest referrals.
+  - This indicates the most common emergency cases involved cardiac issues and injuries.
+
+***
+
