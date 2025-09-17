@@ -65,36 +65,67 @@ You can access the Hospital Emergency Room dataset used for this project <a href
 
 ## Key Insights (As Per January 2024):
 
-- Patient Volume Trends:
+- **Patient Volume Trends:**
   - The ER handled over 500 patients in January, with peak visits on weekends.
   - Daily trend shows noticeable spikes during flu season, suggesting seasonal demand.
 
-- Average Wait Time:
+- **Average Wait Time:**
   - The average wait time was ~36 minutes, with some days exceeding 45 minutes.
   - Longer wait times directly correlated with higher patient volume.
 
-- Patient Satisfaction:
+- **Patient Satisfaction:**
   - Overall satisfaction remained high (4.9/5) despite busy days.
   - Slight dips in satisfaction matched with peak wait times, indicating the need for quicker service during rush hours.
 
-- Admission vs. Non-Admission:
+- **Admission vs. Non-Admission:**
   - 52% of patients were admitted, while 48% were discharged after ER treatment.
   -This balance indicates efficient triage and admission practices.
 
-- Age Distribution:
+- **Age Distribution:**
   - The 0–9 age group accounted for the highest share of visits.
   - Elderly patients (60+) had a higher admission rate, highlighting the need for specialized care readiness.
 
-- Timeliness of Service:
+- **Timeliness of Service:**
   - 74% of patients were seen within 30 minutes, but 26% experienced delays.
   - Improving staff allocation during peak hours could reduce delays.
 
-- Gender Analysis:
+- **Gender Analysis:**
   - Patient ratio: 53% Female | 47% Male, showing nearly balanced gender distribution.
 
-- Department Referrals:
+- **Department Referrals:**
   - Cardiology and Orthopedics received the highest referrals.
   - This indicates the most common emergency cases involved cardiac issues and injuries.
 
 ***
 
+## Dashboard:
+- **Excel Interactive Dashboard Shows:**
+  - Year Selection
+  - Month Wise Data Slicer
+  - Number of Patients 
+  - Average Wait Time (Minutes)
+  - Admission Status
+  - Number of Patients by Age Group
+  - Patients Attended Status
+  - Number of Patients by Gender
+  - Department Referral Status
+
+<img width="1296" height="526" alt="Hospital Emergency Room Analysis - Dashboard" src="https://github.com/user-attachments/assets/dc513c13-b36b-4213-a943-dbb3b9aabb5e" />
+
+***
+
+## Final Conclusion:
+The Hospital Emergency Room Analysis Dashboard in Excel provides valuable insights into ER operations.
+It highlights patient trends, wait times, satisfaction scores, and admission patterns effectively.
+Analysis shows high satisfaction levels but indicates delays during peak hours.
+Age and referral insights help in better resource allocation and service planning.
+Gender distribution and timeliness tracking ensure balanced and efficient monitoring.
+Overall, the dashboard enables data-driven decisions to improve hospital efficiency and patient care.
+
+***
+
+## Author and Contact:
+### Shivansh Gupta
+Data Analyst | CA Inter | B.Com Student  
+       📧Email: shivanshpocket@gmail.com  
+       🔗<a href="https://www.linkedin.com/in/shivanshfinance">LinkedIn</a>
