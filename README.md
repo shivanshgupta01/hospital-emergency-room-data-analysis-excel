@@ -28,5 +28,36 @@ You can access the Hospital Emergency Room dataset used for this project <a href
 
 ***
 
+## Tools and Technologies:
 
+- **Microsoft Power Query** - (Data Cleaning, Quality Check, Sorting and Filtering) 
+
+- **Microsoft Excel** – (Analyzing Dataset)
+
+- **Power Pivot** – (Data Modeling)
+
+***
+
+## Project Steps:
+- Business Requirement gathering.
+
+- Understanding of the Data.
+
+- Data Connection (Import Data using Power Query).
+
+- Data cleaning and Data quality check using Power Query.
+
+- Creating Calendar Table using Power Query.
+
+- Data Modeling using Power Pivot.
+
+- Adding required column (DAX calculation in Power Pivot).
+
+- Creating Pivots and Dashboard lay outing.
+
+- Chart Development and Formatting.
+
+- Dashboard / Report Development.
+
+- Insights Generation
 
